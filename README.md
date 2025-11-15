@@ -72,7 +72,5 @@ README.md – project overview
 Identified 3 unique customer groups
 High-income, high-spending group → premium customers
 Moderate income & spending → target with offers
-
 Low spending group → requires engagement strategies
-
 Segmentation helps in planning marketing campaigns and personalized recommendations
