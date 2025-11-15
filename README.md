@@ -1,3 +1,19 @@
+![Internship](https://img.shields.io/badge/Oasis%20Infobyte-Data%20Analytics-black)
+![Project Level](https://img.shields.io/badge/Level-1-darkred)
+![Language](https://img.shields.io/badge/Language-Python-black)
+![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
+![Category](https://img.shields.io/badge/Category-Clustering-orange)
+![Algorithm](https://img.shields.io/badge/Model-KMeans-blue)
+![Scaling](https://img.shields.io/badge/Preprocessing-StandardScaler-yellow)
+
+
+
+![Internship](https://img.shields.io/badge/Oasis%20Infobyte-Internship%202025-blueviolet)
+![Track](https://img.shields.io/badge/Track-Data%20Analytics-blue)
+![Project](https://img.shields.io/badge/Project-2-green)
+
+
 🧩 Customer Segmentation Using K-Means Clustering
 
 📌 Project Overview
